@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Infernal Abyss",
+    "author": "Minecraft",
+    "creators": ["Yoloplex", "GBOY"],
+    "verifier": "Yoloplex",
+    "verification": "https://youtu.be/UYYqLZQynq8",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
