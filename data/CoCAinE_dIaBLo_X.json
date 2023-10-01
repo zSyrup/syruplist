@@ -8,5 +8,11 @@
     "percentToQualify": "24",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 73517936579613,
+            "hz": 1
+        }
     ]
 }
