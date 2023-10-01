@@ -23,7 +23,7 @@
         {
             "user": "FBITB",
             "link": "https://www.youtube.com/watch?v=aCEVLrMQVHA",
-            "percent": 785947810124230,
+            "percent": "Power[Sum[D[\(40)Power[y,3]-5Power[y,2],y],{x,52365782,412758921895}]\(41),Cbrt[Power[y,2.65]*7]]",
             "hz": "a lot of "
         }
     ]
