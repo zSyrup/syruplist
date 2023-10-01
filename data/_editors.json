@@ -1,8 +1,8 @@
 [
     {
         "role": "owner",
-        "name": "MyRougeYoshi",
-        "link": "https://www.youtube.com/@MyRougeYoshi"
+        "name": "AdvyStyles",
+        "link": "https://www.youtube.com/@GuitarHeroStyles"
     },
     {
         "role": "admin",
@@ -13,6 +13,11 @@
         "role": "admin",
         "name": "Tomato",
         "link": "https://www.youtube.com/@69guy"
+    },
+    {
+        "role": "admin",
+        "name": "MyRougeYoshi",
+        "link": "https://www.youtube.com/@KaiGuy"
     },
     {
         "role": "trial",
