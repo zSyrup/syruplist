@@ -12,7 +12,7 @@
     {
         "role": "admin",
         "name": "Tomato",
-        "link": "https://www.youtube.com/@69guy"
+        "link": "https://www.youtube.com/watch?v=SpC2ECOwBRQ"
     },
     {
         "role": "admin",
@@ -28,5 +28,11 @@
         "role": "dev",
         "name": "Tomato",
         "link": "https://www.youtube.com/@Yoloplex"
+    },
+        {
+        "role": "dev",
+        "name": "xXGTR DANNYGXx",
+        "link": "https://www.youtube.com/@therealdannyg"
     }
+]
 ]
