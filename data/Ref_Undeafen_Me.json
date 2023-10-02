@@ -18,19 +18,19 @@
             "user": "Yoloplex",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 0,
-            "hz": "0"
+            "hz": 0
         },
         {
             "user": "FBITB",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 1015543357575,
-            "hz": "120"
+            "hz": 120
         },
         {
             "user": "Osama Bin Laden",
             "link": "https://www.youtube.com/watch?v=9eTzV7HvKHU",
             "percent": 911,
-            "hz": "911"
+            "hz": 911
         }
     ]
 }
