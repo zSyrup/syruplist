@@ -1,0 +1,36 @@
+{
+    "id": 10238245,
+    "name": "REF UNDEAFEN ME",
+    "author": "WhiteFencePost",
+    "creators": ["Refusion"],
+    "verifier": "FBITB",
+    "verification": "https://www.youtube.com/watch?v=XhKR5yeNrrw",
+    "percentToQualify": "10",
+    "password": "46290",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 300,
+            "hz": "6.02*10^23mol^-1"
+        },
+        {
+            "user": "Yoloplex",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 0,
+            "hz": 0
+                },
+        {
+            "user": "FBITB",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 1015543357575,
+            "hz": 120
+        },
+        {
+            "user": "Osama Bin Laden",
+            "link": "https://www.youtube.com/watch?v=9eTzV7HvKHU",
+            "percent": 911,
+            "hz": 911
+        }
+    ]
+}
