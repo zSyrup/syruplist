@@ -1,1 +1,24 @@
-
+{
+    "id": 10155484,
+    "name": "Baby Lemon",
+    "author": "Gay Kid",
+    "creators": ["Gay Kid"],
+    "verifier": "Gay Kid",
+    "verification": "https://www.youtube.com/watch?v=PW2e-kSHn94",
+    "percentToQualify": "95",
+    "password": "000000",
+    "records": [
+         {
+            "user": "PockeWindfish",
+            "link": "https://www.youtube.com/watch?v=kTOSIv02sAo",
+            "percent": 100,
+            "hz": 597
+        },
+        {
+            "user": "Osama Bin Laden",
+            "link": "https://twitter.com/xsyrup_gmd",
+            "percent": 911,
+            "hz": 911
+        }
+    ]
+}
