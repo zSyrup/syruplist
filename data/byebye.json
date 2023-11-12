@@ -1,0 +1,18 @@
+{
+    "id": 128,
+    "name": "REFLECTION",
+    "author": "MyRougeYoshi",
+    "creators": ["MyRougeYoshi"],
+    "verifier": "MyRougeYoshi",
+    "verification": "https://youtu.be/Xv3rTqt0A5s",
+      "percentToQualify": "MENTALITY",
+    "password": "EMOTIONS.",
+    "records":[
+        {
+            "user": "Osama Bin Laden",
+            "link": "",
+            "percent": 911,
+            "hz": 9.11
+        }
+    ]
+}
