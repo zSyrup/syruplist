@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=9eTzV7HvKHU",
             "percent": 911,
             "hz": 911
+        },
+        {
+            "user": "PloopIsDumb",
+            "link": "https://www.youtube.com/watch?v=tcDNnqALhOA",
+            "percent": 0.000000000000000000000000000001,
+            "hz": dumb
         }
     ]
 }
