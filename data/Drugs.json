@@ -1,0 +1,17 @@
+{
+    "id": "Mexico",
+    "name": "Cocaine",
+    "author": "Pablo escobar",
+    "creators": ["Mirexgd"],
+    "verifier": "Bill Cosby",
+    "verification": "https://www.youtube.com/watch?v=QrjHN0h0w88",
+    "percentToQualify": "100",
+    "password": "9-11-2001",
+    "records": [
+         {
+            "user": "Fbitb",
+            "link": "https://twitter.com/WoolEndy/status/1740394549242151135",
+            "percent": 9112001,
+            "hz": 911
+        }
+        
