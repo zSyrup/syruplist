@@ -9,7 +9,22 @@
     "password": "No Password",
     "records":[
         {
-
+            "user": "Osama Bin Laden",
+            "link": "",
+            "percent": 911,
+            "hz": 0.911
+        },        
+        {
+            "user": "FTBIBT",
+            "link": "",
+            "percent": "6",
+            "hz": "murder drones "
+        },
+        {
+            "user": "Tomatototototototoltotototototototototototototo",
+            "link": "",
+            "percent": "7",
+            "hz": "WHY "
         }
     ]
 }
