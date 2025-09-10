@@ -1,0 +1,36 @@
+{
+    "id": 57436521,
+    "name": "charlie kirk is dead",
+    "author": "MyRougeYoshi",
+    "creators": ["Etzer"],
+    "verifier": "FBITB",
+    "verification": "",
+    "percentToQualify": "67",
+    "password": "46290",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+                },
+        {
+            "user": "FBITB",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 10155484,
+            "hz": 120
+        },
+        {
+            "user": "Osama Bin Laden",
+            "link": "https://www.youtube.com/watch?v=9eTzV7HvKHU",
+            "percent": 911,
+            "hz": 911
+        }
+    ]
+}
